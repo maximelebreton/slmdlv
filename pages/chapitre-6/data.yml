@@ -8,18 +8,38 @@ subdescription: ''
 items:
   - ref: 8Fi2394
     title: Comité de secours national. Secours aux départements envahis, s. d.
+    top-description: Affiche, 62 cm x 89 cm
+    description: "Après l’invasion des départements du Nord et de l’Est de la France par les troupes allemandes, le front se stabilise. Le Secours national est créé dès le 4 août dans le but de venir en aide à près de deux millions de réfugiés originaires de ces régions occupées ou situées en zones de combats."
+    bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds Caudebec, 8Fi2394
+
 
   - ref: 8Fi2282
     title: Journée du Drapeau belge, 20 décembre 1914
+    top-description: Affiche, 30 cm x 50 cm 
+    description: "L’invasion de la Belgique le 4 août 1914 provoque l’exode de plus d’un million de citoyens belges. Le gouvernement belge lui-même réfugié en France organise cet exil avec le soutien de la France et d’organismes comme le comité central franco-belge La « Journée du petit drapeau belge » est la première journée de solidarité dont la recette est destinée à venir en aide aux réfugiés."
+    bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds d’Elbeuf, 8Fi2282
+
 
   - ref: 8Fi2319
     title: Journée des éprouvés de la guerre. Grande tombola, 26 septembre 1915
+    top-description: Affiche, 80 cm x 121 cm 
+    description: "Organisée par le Syndicat de la Presse parisienne, le bénéfice de cette tombola est réparti entre les différentes oeuvres se consacrant aux victimes militaires et civiles. A cette occasion, on procède à la vente de pochettes en papier contenant une gravure en couleur d’un dessin composé spécialement par une trentaine d’artistes."
+    bottom-description: Illustrée par Luc-Olivier MERSON. RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds Caudebec lès Elbeuf, 8Fi2319
+
 
   - ref: 8Fi2392
     title: Journée serbe, 25 juin 1916. Anniversaire de la bataille du Kosovo
+    top-description: Affiche, 80 cm x 121 cm 
+    description: "Organisée par le Syndicat de la Presse parisienne, le bénéfice de cette tombola est réparti entre les différentes oeuvres se consacrant aux victimes militaires et civiles. A cette occasion, on procède à la vente de pochettes en papier contenant une gravure en couleur d’un dessin composé spécialement par une trentaine d’artistes."
+    bottom-description: Illustrée par Luc-Olivier MERSON. RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds Caudebec lès Elbeuf, 8Fi2319
+
 
   - ref: 8Fi2657
     title: Journée serbe 25 juin 1916.
+    top-description: Affiche, 80 cm x 121 cm 
+    description: "Organisée par le Syndicat de la Presse parisienne, le bénéfice de cette tombola est réparti entre les différentes oeuvres se consacrant aux victimes militaires et civiles. A cette occasion, on procède à la vente de pochettes en papier contenant une gravure en couleur d’un dessin composé spécialement par une trentaine d’artistes."
+    bottom-description: Illustrée par Luc-Olivier MERSON. RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds Caudebec lès Elbeuf, 8Fi2319
+
 
 
 subcategories:
