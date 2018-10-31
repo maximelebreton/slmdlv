@@ -1,7 +1,6 @@
 href: chapitre-6
 title: Une nation mobilisée
-description: "La solidarité s’organise dès 1914. De nombreuses œuvres de guerre voient le jour destinées à venir en aide tant aux soldats qu’aux populations. Elles fonctionnent grâce aux subventions publiques distribuées par les communes mais versées par l’Etat, aux dons privés et aux bénéfices des journées de bienfaisance. 
-Pendant une journée, enfants des écoles, dames de l’Union des femmes de France et de la Croix-Rouge, associations familiales, personnel municipal et autres volontaires quêtent en vendant insignes, médailles et cartes postales. Ces initiatives sont popularisées grâce à des campagnes d’affiches destinées à stimuler la générosité des Français."
+description: "La solidarité s’organise dès 1914. De nombreuses œuvres de guerre voient le jour destinées à venir en aide tant aux soldats qu’aux populations. Elles fonctionnent grâce aux subventions publiques distribuées par les communes mais versées par l’Etat, aux dons privés et aux bénéfices des journées de bienfaisance. <br> Pendant une journée, enfants des écoles, dames de l’Union des femmes de France et de la Croix-Rouge, associations familiales, personnel municipal et autres volontaires quêtent en vendant insignes, médailles et cartes postales. Ces initiatives sont popularisées grâce à des campagnes d’affiches destinées à stimuler la générosité des Français."
 subtitle: Assistance au victimes civiles
 subdescription: ''
 
@@ -51,70 +50,138 @@ subcategories:
   - subtitle: Assistance aux orphelins
     subdescription: "Huit millions et demi d’hommes ont été mobilisés entre 1914 et 1918 : parmi eux près d’un million et demi sont déclarés « morts pour la France » et trois millions et demi souffrent de graves blessures et de troubles psychologiques. L’Etat se voit dans l’obligation d’aider matériellement et moralement les familles dont les 680 000 veuves de guerre et les 760 000 orphelins que compte le pays. En 1917, le statut de « Pupille de la nation » est créé, qui place les enfants des soldats morts ou déclarés disparus sous la tutelle de la Nation."
     items:
-      - ref: 8Fi2302
-        title: Journée nationale des Orphelins 1914-1916 - Souscription
+  - ref: 8Fi2302
+    title: Journée nationale des Orphelins 1914-1916 - Souscription
     top-description: Affiche, 120 cm x 80 cm 
     description: 
     middle-description: Illustrée par Charles H. FOERSTER. 
     bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds de Caudebec lès Elbeuf, 8Fi2302
 
 
-      - ref: 8Fi2303
-        title: Journée des Orphelins 1914-1916
+  - ref: 8Fi2303
+    title: Journée des Orphelins 1914-1916
     top-description: Affiche, 120 cm x 80 cm
     description: 
     middle-description: Illustrée par Bernard NAUDIN. 
     bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds de Caudebec lès Elbeuf 8Fi2303
 
 
-    - ref: 8Fi2601
-        title: Journée de l'orphelinat des armées, 20 juin 1915
+  - ref: 8Fi2601
+    title: Journée de l'orphelinat des armées, 20 juin 1915
     top-description: Affiche, 160 cm x 119 cm
     description: 
     middle-description: Illustrée par Alfred ROLL. 
     bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds de Caudebec lès Elbeuf, 8Fi2601
 
 
-    - ref: 8Fi2304
-        title: Journée nationale des Orphelins, 3 décembre 1916
+  - ref: 8Fi2304
+    title: Journée nationale des Orphelins, 3 décembre 1916
     top-description: Affiche, 80 cm x 60 cm
     description: 
     middle-description:
     bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds de Caudebec lès Elbeuf, 8Fi2304
 
 
-
   - subtitle: Assistance aux soldats
     subdescription: ""
     items:
-      - ref: 8Fi0189
-        title: Elbeuf. Comité de la journée du Poilu aux habitants d'Elbeuf 1915
-    top-description: Affiche 76 cm x 45 cm
+  - ref: 8Fi0189
+    title: Elbeuf. Comité de la journée du Poilu aux habitants d'Elbeuf 1915
+    top-description: Affiche, 76 cm x 45 cm
     description: 
     middle-description:
     bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds d’Elbeuf, 8Fi0189
 
 
-      - ref: 8Fi2285
-        title: Journée du [canon de] 75 du 7 février 1915 
+  - ref: 8Fi2285
+    title: Journée du [canon de] 75 du 7 février 1915 
     top-description: Affiche, 76 cm x 55 cm 
     description: "Dite du 75 en référence à la pièce maitresse de l’artillerie française, cette journée de bienfaisance a pour objet de  recueillir des fonds destinés à l’acquisition d’objets d’hygiène et de confort pour les soldats. 150 000 affiches ont été imprimées à cette occasion par le Touring Club de France."
     middle-description:
     bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds d’Elbeuf, 8Fi2285
 
 
-    - ref: 8Fi2391
-        title: Journée de l'orphelinat des armées, 20 juin 1915
-    top-description: Affiche, 160 cm x 119 cm
+  - ref: 8Fi2391
+    title: Journée du Poilu 31 octobre - 1er novembre 1915
+    top-description: Affiche, 121 cm x 80 cm
     description: 
-    middle-description: Illustrée par Alfred ROLL. 
-    bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds de Caudebec lès Elbeuf, 8Fi2601
+    middle-description: Illustrée par Charles LEANDRE
+    bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds d’Elbeuf, 8Fi2391
 
 
-    - ref: 8Fi2304
-        title: Journée nationale des Orphelins, 3 décembre 1916
-    top-description: Affiche, 80 cm x 60 cm
+  - ref: 8Fi2599
+    title: Journée française du secours national, 23-24 mai 1915
+    top-description: Affiche, 126 cm x 85 cm 
+    description: "L’œuvre du Secours national est créée par le journal de Clémenceau L’Homme déchainé, à l’origine dans le but d’améliorer la tenue des soldats."
+    middle-description:
+    bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds Caudebec lès Elbeuf, 8Fi2599
+
+
+  - ref: 8Fi0344
+    title: Assistance professionnelle aux Invalides de la guerre, sans date
+    top-description: Affiche, 84 cm x 60 cm 
     description: 
     middle-description:
-    bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds de Caudebec lès Elbeuf, 8Fi2304
+    bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds Elbeuf, 8Fi0344
+
+
+  - ref: 8Fi2317
+    title: Journée nationale des Tuberculeux 1917
+    top-description: Affiche, 120 cm x 80 cm 
+    description: "Les conditions de vie difficiles dans les tranchées sont des facteurs propices à la propagation  de la tuberculose. On compte 40 000 décès. La plupart des soldats contaminés sont réformés sans obtenir la reconnaissance de blessés. Les fonds récoltés lors de ces journées sont destinés à la création d’hôpitaux et de stations sanitaires."
+    middle-description: Illustrée par Abel FAIVRE
+    bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds Caudebec lès Elbeuf, 8Fi2317
+
+
+  - ref: 8Fi2316
+    title: Journée nationale des Tuberculeux 1917
+    top-description: Affiche, 82 cm x 114 cm 
+    description: 
+    middle-description: Illustrée par Lucien LEVY-DHURMER
+    bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds Elbeuf, 8Fi2316
+
+
+  - ref: 8Fi0291
+    title: Une semaine d'économie du 14 au 21 janvier 1918 au profit des prisonniers de guerre
+    top-description: Affiche, 126 cm x 84 cm 
+    description: 
+    middle-description:
+    bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds Elbeuf, 8Fi0291
+
+
+
+  - subtitle: Assistance en faveur des troupes coloniales
+    subdescription: "Au cours du conflit, La France déploie plus de 480 000 soldats originaires d’Afrique de l’Ouest, Afrique du Nord, Madagascar, Somalie et Indochine. Mais la guerre se poursuivant, l’Etat procède à la mobilisation des hommes dans les colonies dans un climat d’hostilité de la part des populations."
+    items:
+  - ref: 8Fi2308
+    title: Journées de l'Armée d'Afrique et des Troupes Coloniales 1917
+    top-description: Affiche, 110 cm x 80 cm 
+    description: 
+    middle-description: Illustrée par Lucien JONAS
+    bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds Elbeuf, 8Fi2308 
+
+
+  - ref: 8Fi2311
+    title: Journées d'Afrique et des Troupes Coloniales 10 juin 1917
+    top-description: Affiche, 80 cm x 60 cm
+    description: "Dite du 75 en référence à la pièce maitresse de l’artillerie française, cette journée de bienfaisance a pour objet de  recueillir des fonds destinés à l’acquisition d’objets d’hygiène et de confort pour les soldats. 150 000 affiches ont été imprimées à cette occasion par le Touring Club de France."
+    middle-description:
+    bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds Elbeuf, 8Fi2311 
+
+
+  - ref: 8Fi2309
+    title: Journées de l'Armée d'Afrique et des troupes coloniales, 1917
+    top-description: Affiche, 120 cm x 80 cm
+    description: 
+    middle-description: Illustrée par Charles FOUQUERAY
+    bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds Elbeuf, 8Fi2309
+
+
+  - ref: 8Fi2312
+    title: Journée au profit des oeuvres de l'Armée d'Afrique et troupes coloniales 1917
+    top-description: Affiche, 120 cm x 159 cm
+    description: 
+    middle-description: Illustrée par Henri de WAROQUIER
+    bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds Caudebec lès Elbeuf, 8Fi2312
+
 
