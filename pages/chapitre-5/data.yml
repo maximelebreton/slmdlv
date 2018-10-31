@@ -7,41 +7,47 @@ items:
     title: « Tout l'acier et le charbon pour nos usines », 1916
     top-description: Affiche, 55 cm x 36 cm
     description: "En 1916, La ville de Paris et l’Union pour l’expansion morale et matérielle de France organisent des concours de dessins sur le thème de l’économie de guerre. Le message est clair : les sacrifices des populations à l’arrière contribuent à améliorer la situation des combattants "
-    bottom-description: Illustrée par HERINGFELD (écolier), éditée par le Comité national pour la prévoyance et l'économie  pour la guerre. RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Don Pierre Largesse, 8Fi2402
+    middle-description: Illustrée par HERINGFELD (écolier), éditée par le Comité national pour la prévoyance et l'économie  pour la guerre.
+    bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Don Pierre Largesse, 8Fi2402
 
 
   - ref: 8Fi2403
     title: « Nous saurons nous en priver », 1916
     top-description: Affiche, 55 cm x 36 cm
     description: 
-    bottom-description: Illustrée par Camille BOUTET (écolier), éditée par le Comité national pour la prévoyance et l'économie pour la guerre. RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Don Pierre Largesse, 8Fi2403
+    middle-description: Illustrée par Camille BOUTET (écolier), éditée par le Comité national pour la prévoyance et l'économie pour la guerre.
+    bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Don Pierre Largesse, 8Fi2403
 
 
   - ref: 8Fi2404
     title: « Cultivons notre potager », 1916
     top-description: Affiche, 55 cm x 36 cm
     description: 
-    bottom-description: Illustrée par Louisette JAEGER (écolière), éditée par le Comité national pour la prévoyance et l'économie pour la guerre. RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Don Pierre Largesse, 8Fi2404
+    middle-description: Illustrée par Louisette JAEGER (écolière), éditée par le Comité national pour la prévoyance et l'économie pour la guerre. 
+    bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Don Pierre Largesse, 8Fi2404
 
 
   - ref: 8Fi2405
     title: « Réservez le vin pour nos poilus », 1916
     top-description: Affiche, 55 cm x 36 cm
     description: 
-    bottom-description: Illustrée par Suzanne FERRAND (écolière), éditée par le Comité national pour la Prévoyance et l'économie pour la guerre. RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Don Pierre Largesse, 8Fi2405
+    middle-description: Illustrée par Suzanne FERRAND (écolière), éditée par le Comité national pour la Prévoyance et l'économie pour la guerre. 
+    bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Don Pierre Largesse, 8Fi2405
 
 
   - ref: 8Fi2407
     title: « Avec la carte - nous en aurons peu - mais nous en aurons tous »
     top-description: Affiche, 55 cm x 36 cm
     description: 
-    bottom-description: Illustrée par Yvonne COLAS (écolière), éditée par le Comité national pour la prévoyance et l'économie pour la guerre. RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Don Pierre Largesse, 8Fi2407
+    middle-description: Illustrée par Yvonne COLAS (écolière), éditée par le Comité national pour la prévoyance et l'économie pour la guerre. 
+    bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Don Pierre Largesse, 8Fi2407
 
 
   - ref: 8Fi0294
     title: Bon de pain, 1918
     top-description: Affiche, 60 cm x 42 cm
     description: 
+    middle-description:
     bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds Elbeuf, 8Fi0294
 
 
@@ -49,4 +55,5 @@ items:
     title: Vente de beurre, 1919
     top-description: Affiche, 62 cm x 46 cm
     description: 
+    middle-description:
     bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds Elbeuf, 8Fi0376

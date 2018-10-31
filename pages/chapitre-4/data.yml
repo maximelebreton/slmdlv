@@ -7,20 +7,23 @@ items:
     title: Emprunt de la Défense nationale, 1915
     top-description: Affiche, 79 cm x 115 cm
     description: 
-    bottom-description: Illustrée par Bernard NAUDIN, publiée sous les auspices des Sociétés de préparation militaire de France. RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds Caudebec-lès-Elbeuf, 8Fi2598
+    middle-description: Illustrée par Bernard NAUDIN, publiée sous les auspices des Sociétés de préparation militaire de France. 
+    bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds Caudebec-lès-Elbeuf, 8Fi2598
 
 
   - ref: 8Fi2600
     title: Emprunt de la Défense nationale, 1915
     top-description: Affiche, 62 cm x 44 cm 
     description: 
-    bottom-description: Illustrée par Francisque POULBOT publiée avec le soutien de la Fédération de la Mutualité française. RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds Caudebec-lès-Elbeuf, 8Fi2600
+    middle-description: Illustrée par Francisque POULBOT publiée avec le soutien de la Fédération de la Mutualité française.
+    bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds Caudebec-lès-Elbeuf, 8Fi2600
 
 
   - ref: 8Fi2602
     title: Emprunt national - Appel à la population, 1915
     top-description: Affiche, 72 cm x 110 cm 
     description: 
+    middle-description:
     bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds Caudebec-lès-Elbeuf, 8Fi2602
 
 
@@ -28,13 +31,15 @@ items:
     title: Emprunt de la Défense nationale « Eux aussi font leur devoir », 1915
     top-description: Affiche, 120 cm x 80 cm 
     description: 
-    bottom-description: Illustrée par Jules ADLER publiée sous les auspices de l'Union des Sociétés de Tir de France et de l'Union des Sociétés de Gymnastique de France. RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Don Pierre Largesse, 8Fi2656
+    middle-description: Illustrée par Jules ADLER publiée sous les auspices de l'Union des Sociétés de Tir de France et de l'Union des Sociétés de Gymnastique de France.
+    bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Don Pierre Largesse, 8Fi2656
 
 
   - ref: 8Fi2424
     title: Emprunt de la Libération. Appel des Maires de France, 1918
     top-description: Affiche, 44 cm x 28 cm 
     description: 
+    middle-description:
     bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds Elbeuf, 8Fi2424
 
 
@@ -43,4 +48,5 @@ items:
     title: Appel à la population pour l'emprunt émis par le gouvernement, 1920
     top-description: Affiche, 94 cm x 65 cm
     description: 
+    middle-description:
     bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds Elbeuf, 8Fi0454

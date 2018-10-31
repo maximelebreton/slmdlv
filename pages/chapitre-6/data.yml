@@ -10,6 +10,7 @@ items:
     title: Comité de secours national. Secours aux départements envahis, s. d.
     top-description: Affiche, 62 cm x 89 cm
     description: "Après l’invasion des départements du Nord et de l’Est de la France par les troupes allemandes, le front se stabilise. Le Secours national est créé dès le 4 août dans le but de venir en aide à près de deux millions de réfugiés originaires de ces régions occupées ou situées en zones de combats."
+    middle-description:
     bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds Caudebec, 8Fi2394
 
 
@@ -17,6 +18,7 @@ items:
     title: Journée du Drapeau belge, 20 décembre 1914
     top-description: Affiche, 30 cm x 50 cm 
     description: "L’invasion de la Belgique le 4 août 1914 provoque l’exode de plus d’un million de citoyens belges. Le gouvernement belge lui-même réfugié en France organise cet exil avec le soutien de la France et d’organismes comme le comité central franco-belge La « Journée du petit drapeau belge » est la première journée de solidarité dont la recette est destinée à venir en aide aux réfugiés."
+    middle-description:
     bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds d’Elbeuf, 8Fi2282
 
 
@@ -24,30 +26,95 @@ items:
     title: Journée des éprouvés de la guerre. Grande tombola, 26 septembre 1915
     top-description: Affiche, 80 cm x 121 cm 
     description: "Organisée par le Syndicat de la Presse parisienne, le bénéfice de cette tombola est réparti entre les différentes oeuvres se consacrant aux victimes militaires et civiles. A cette occasion, on procède à la vente de pochettes en papier contenant une gravure en couleur d’un dessin composé spécialement par une trentaine d’artistes."
-    bottom-description: Illustrée par Luc-Olivier MERSON. RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds Caudebec lès Elbeuf, 8Fi2319
+    middle-description: Illustrée par Luc-Olivier MERSON. 
+    bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds Caudebec lès Elbeuf, 8Fi2319
 
 
   - ref: 8Fi2392
     title: Journée serbe, 25 juin 1916. Anniversaire de la bataille du Kosovo
-    top-description: Affiche, 80 cm x 121 cm 
-    description: "Organisée par le Syndicat de la Presse parisienne, le bénéfice de cette tombola est réparti entre les différentes oeuvres se consacrant aux victimes militaires et civiles. A cette occasion, on procède à la vente de pochettes en papier contenant une gravure en couleur d’un dessin composé spécialement par une trentaine d’artistes."
-    bottom-description: Illustrée par Luc-Olivier MERSON. RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds Caudebec lès Elbeuf, 8Fi2319
+    top-description: Affiche, 115 cm x 80 cm
+    description: "Durant le conflit, la Serbie est l’alliée de la France, de la Grande-Bretagne et de la Russie. Cette affiche illustre la fuite de l’armée et des civils serbes vers le Monténégro et l’Albanie devant l’avancée des troupes allemandes et austro-hongroises. La journée organisée en faveur de la population serbe fait référence à une ancienne bataille du Kosovo (1389) à l’issue de laquelle la Serbie perdit son indépendance."
+    middle-description: Illustrée par Charles FOUQUERAY. 
+    bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds Caudebec lès Elbeuf, 8Fi2392
 
 
   - ref: 8Fi2657
-    title: Journée serbe 25 juin 1916.
-    top-description: Affiche, 80 cm x 121 cm 
-    description: "Organisée par le Syndicat de la Presse parisienne, le bénéfice de cette tombola est réparti entre les différentes oeuvres se consacrant aux victimes militaires et civiles. A cette occasion, on procède à la vente de pochettes en papier contenant une gravure en couleur d’un dessin composé spécialement par une trentaine d’artistes."
-    bottom-description: Illustrée par Luc-Olivier MERSON. RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds Caudebec lès Elbeuf, 8Fi2319
+    title: Journée serbe 25 juin 1916
+    top-description: Affiche, 120 cm x 80 cm.
+    description: 
+    middle-description: Illustrée par Pierre MOURGUE. 
+    bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds Elbeuf, 8Fi2657
 
 
 
 subcategories:
   - subtitle: Assistance aux orphelins
-    subdescription: 'Huit millions et demi d’hommes ont été mobilisés entre 1914 et 1918 : parmi eux près d’un million et demi sont déclarés « morts pour la France » et trois millions et demi souffrent de graves blessures et de troubles psychologiques. L’Etat se voit dans l’obligation d’aider matériellement et moralement les familles dont les 680 000 veuves de guerre et les 760 000 orphelins que compte le pays. En 1917, le statut de « Pupille de la nation » est créé, qui place les enfants des soldats morts ou déclarés disparus sous la tutelle de la Nation.'
+    subdescription: "Huit millions et demi d’hommes ont été mobilisés entre 1914 et 1918 : parmi eux près d’un million et demi sont déclarés « morts pour la France » et trois millions et demi souffrent de graves blessures et de troubles psychologiques. L’Etat se voit dans l’obligation d’aider matériellement et moralement les familles dont les 680 000 veuves de guerre et les 760 000 orphelins que compte le pays. En 1917, le statut de « Pupille de la nation » est créé, qui place les enfants des soldats morts ou déclarés disparus sous la tutelle de la Nation."
     items:
       - ref: 8Fi2302
         title: Journée nationale des Orphelins 1914-1916 - Souscription
+    top-description: Affiche, 120 cm x 80 cm 
+    description: 
+    middle-description: Illustrée par Charles H. FOERSTER. 
+    bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds de Caudebec lès Elbeuf, 8Fi2302
+
 
       - ref: 8Fi2303
         title: Journée des Orphelins 1914-1916
+    top-description: Affiche, 120 cm x 80 cm
+    description: 
+    middle-description: Illustrée par Bernard NAUDIN. 
+    bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds de Caudebec lès Elbeuf 8Fi2303
+
+
+    - ref: 8Fi2601
+        title: Journée de l'orphelinat des armées, 20 juin 1915
+    top-description: Affiche, 160 cm x 119 cm
+    description: 
+    middle-description: Illustrée par Alfred ROLL. 
+    bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds de Caudebec lès Elbeuf, 8Fi2601
+
+
+    - ref: 8Fi2304
+        title: Journée nationale des Orphelins, 3 décembre 1916
+    top-description: Affiche, 80 cm x 60 cm
+    description: 
+    middle-description:
+    bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds de Caudebec lès Elbeuf, 8Fi2304
+
+
+
+  - subtitle: Assistance aux soldats
+    subdescription: ""
+    items:
+      - ref: 8Fi0189
+        title: Elbeuf. Comité de la journée du Poilu aux habitants d'Elbeuf 1915
+    top-description: Affiche 76 cm x 45 cm
+    description: 
+    middle-description:
+    bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds d’Elbeuf, 8Fi0189
+
+
+      - ref: 8Fi2285
+        title: Journée du [canon de] 75 du 7 février 1915 
+    top-description: Affiche, 76 cm x 55 cm 
+    description: "Dite du 75 en référence à la pièce maitresse de l’artillerie française, cette journée de bienfaisance a pour objet de  recueillir des fonds destinés à l’acquisition d’objets d’hygiène et de confort pour les soldats. 150 000 affiches ont été imprimées à cette occasion par le Touring Club de France."
+    middle-description:
+    bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds d’Elbeuf, 8Fi2285
+
+
+    - ref: 8Fi2391
+        title: Journée de l'orphelinat des armées, 20 juin 1915
+    top-description: Affiche, 160 cm x 119 cm
+    description: 
+    middle-description: Illustrée par Alfred ROLL. 
+    bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds de Caudebec lès Elbeuf, 8Fi2601
+
+
+    - ref: 8Fi2304
+        title: Journée nationale des Orphelins, 3 décembre 1916
+    top-description: Affiche, 80 cm x 60 cm
+    description: 
+    middle-description:
+    bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds de Caudebec lès Elbeuf, 8Fi2304
+
