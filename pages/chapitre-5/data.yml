@@ -1,6 +1,9 @@
 href: chapitre-5
+number: 5
 title: Le temps des restrictions
-description: "Les réquisitions effectuées pour le compte de l’armée ne tardent pas à provoquer la pénurie de certains produits de première nécessité. Les premières mesures prises à partir de 1915 portent sur Le blé dont la circulation est strictement contrôlée. Un ministère du ravitaillement général est créé en 1917 et des services officiels chargés de réglementer l’approvisionnement sont mis en place. <br>Pour pallier ces difficultés et pour permettre un approvisionnement suffisant des soldats, des mesures de restriction sont nécessaires. La population est appelée à économiser et à se rationner afin de contribuer à l’effort de guerre. "
+description: "Les réquisitions effectuées pour le compte de l’armée ne tardent pas à provoquer la pénurie de certains produits de première nécessité."
+subdescription: "Les premières mesures prises à partir de 1915 portent sur Le blé dont la circulation est strictement contrôlée. Un ministère du ravitaillement général est créé en 1917 et des services officiels chargés de réglementer l’approvisionnement sont mis en place.
+Pour pallier ces difficultés et pour permettre un approvisionnement suffisant des soldats, des mesures de restriction sont nécessaires. La population est appelée à économiser et à se rationner afin de contribuer à l’effort de guerre."
 
 items:
   - ref: 8Fi2402
@@ -14,7 +17,7 @@ items:
   - ref: 8Fi2403
     title: « Nous saurons nous en priver », 1916
     top-description: Affiche, 55 cm x 36 cm
-    description: 
+    description:
     middle-description: Illustrée par Camille BOUTET (écolier), éditée par le Comité national pour la prévoyance et l'économie pour la guerre.
     bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Don Pierre Largesse, 8Fi2403
 
@@ -22,31 +25,31 @@ items:
   - ref: 8Fi2404
     title: « Cultivons notre potager », 1916
     top-description: Affiche, 55 cm x 36 cm
-    description: 
-    middle-description: Illustrée par Louisette JAEGER (écolière), éditée par le Comité national pour la prévoyance et l'économie pour la guerre. 
+    description:
+    middle-description: Illustrée par Louisette JAEGER (écolière), éditée par le Comité national pour la prévoyance et l'économie pour la guerre.
     bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Don Pierre Largesse, 8Fi2404
 
 
   - ref: 8Fi2405
     title: « Réservez le vin pour nos poilus », 1916
     top-description: Affiche, 55 cm x 36 cm
-    description: 
-    middle-description: Illustrée par Suzanne FERRAND (écolière), éditée par le Comité national pour la Prévoyance et l'économie pour la guerre. 
+    description:
+    middle-description: Illustrée par Suzanne FERRAND (écolière), éditée par le Comité national pour la Prévoyance et l'économie pour la guerre.
     bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Don Pierre Largesse, 8Fi2405
 
 
   - ref: 8Fi2407
     title: « Avec la carte - nous en aurons peu - mais nous en aurons tous »
     top-description: Affiche, 55 cm x 36 cm
-    description: 
-    middle-description: Illustrée par Yvonne COLAS (écolière), éditée par le Comité national pour la prévoyance et l'économie pour la guerre. 
+    description:
+    middle-description: Illustrée par Yvonne COLAS (écolière), éditée par le Comité national pour la prévoyance et l'économie pour la guerre.
     bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Don Pierre Largesse, 8Fi2407
 
 
   - ref: 8Fi0294
     title: Bon de pain, 1918
     top-description: Affiche, 60 cm x 42 cm
-    description: 
+    description:
     middle-description:
     bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds Elbeuf, 8Fi0294
 
@@ -54,6 +57,6 @@ items:
   - ref: 8Fi0376
     title: Vente de beurre, 1919
     top-description: Affiche, 62 cm x 46 cm
-    description: 
+    description:
     middle-description:
     bottom-description: RMM Rouen Normandie. Fabrique des savoirs<br> Archives. Fonds Elbeuf, 8Fi0376

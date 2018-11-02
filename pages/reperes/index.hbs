@@ -1,0 +1,53 @@
+---
+layout: reperes.hbs
+title: Repères
+data: data.yml
+---
+
+<section class="hero is-cover">
+  <img src="/{{rootPath}}reperes/images/couverture.jpg" alt="">
+</section>
+
+
+<section class="hero is-medium">
+  <div class="hero-body">
+    <div class="container has-text-centered">
+
+        <div class="title-number">8.</div>
+        <h2 class="title is-size-2 is-italic">
+          Repères
+        </h1>
+        <hr>
+
+    </div>
+  </div>
+</section>
+
+
+<section>
+
+
+<div class="container">
+    <div class="layout-reperes">
+    {{#each data.sections as |section|}}
+    <div class="layout-item">
+
+    <h2 class="title is-size-4 is-italic">{{section.title}}</h2>
+
+    <ul>
+        {{#each section.items as |item|}}
+
+            <li>{{item}}</li>
+
+        {{/each}}
+    </ul>
+    </div>
+    {{/each}}
+    </div>
+
+</div>
+
+</section>
+
+<hr>
+
