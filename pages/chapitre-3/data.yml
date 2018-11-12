@@ -8,6 +8,7 @@ En août 1914, les hommes mobilisés en priorité sont nés entre 1896 à 1913. 
 items:
   - ref: 8Fi0139
     title: Recrutement de la classe 1914. Extrait de la loi du 21 Mars 1905 modifiée par la loi du 7 août 1913
+    date:
     top-description: Affiche, 61 cm x 43 cm
     description: "Les hommes mobilisés en 1914 originaires de la région, sont incorporés au 74e Régiment d’infanterie en garnison à Elbeuf, Rouen et Gaillon. Ce régiment est présent lors des grandes batailles militaires : La Marne en 1914, Verdun en 1916, le Chemin des Dames en 1917 et l’Artois en 1918."
     middle-description:
@@ -15,7 +16,8 @@ items:
 
 
   - ref: 8Fi2396
-    title: Recrutement militaire. Avis aux réformés et exemptés, 1914
+    title: Recrutement militaire. Avis aux réformés et exemptés
+    date : "1914"
     top-description: Affiche, 48 cm x 65 cm
     description:
     middle-description:
@@ -23,7 +25,8 @@ items:
 
 
   - ref: 8Fi0174
-    title: Recrutement de l'armée. Réformés n° 2 et réformés temporairement entre le 2 août et le 31 décembre, 1914
+    title: Recrutement de l'armée. Réformés n° 2 et réformés temporairement entre le 2 août et le 31 décembre
+    date: "1914"
     top-description: Affiche, 60 cm x 43 cm
     description: "La conscription ne suffit pas à combler les pertes humaines considérables lors des premiers affrontements de 1914. Le 9 septembre, un décret relatif au recrutement militaire oblige les réformés et les exemptés à passer à nouveau devant la commission de réforme qui peut alors décider de l’envoi au front."
     middle-description:
@@ -32,6 +35,7 @@ items:
 
   - ref: 8Fi0177
     title: Avis aux belges de 18 à 25 ans, 1915, Mobilisation des ressortissants belges réfugiés
+    date: 
     top-description: Affiche, 62 cm x 44 cm
     description: "Suite à l’invasion du pays par les troupes allemandes, le gouvernement belge se réfugie en France à Sainte-Adresse près du Havre à partir du 13 octobre 1914. Le port de Calais devient la principale base de guerre de l’armée belge qui compte environ 200 000 soldats."
     middle-description:

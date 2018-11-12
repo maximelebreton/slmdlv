@@ -8,6 +8,7 @@ subdescription: "Pendant une journée, enfants des écoles, dames de l’Union d
 items:
   - ref: 8Fi2394
     title: Comité de secours national. Secours aux départements envahis, s. d.
+    date:
     top-description: Affiche, 62 cm x 89 cm
     description: "Après l’invasion des départements du Nord et de l’Est de la France par les troupes allemandes, le front se stabilise. Le Secours national est créé dès le 4 août dans le but de venir en aide à près de deux millions de réfugiés originaires de ces régions occupées ou situées en zones de combats."
     middle-description:
@@ -15,7 +16,8 @@ items:
 
 
   - ref: 8Fi2282
-    title: Journée du Drapeau belge, 20 décembre 1914
+    title: Journée du Drapeau belge
+    date: 20 décembre 1914
     top-description: Affiche, 30 cm x 50 cm
     description: "L’invasion de la Belgique le 4 août 1914 provoque l’exode de plus d’un million de citoyens belges. Le gouvernement belge lui-même réfugié en France organise cet exil avec le soutien de la France et d’organismes comme le comité central franco-belge La « Journée du petit drapeau belge » est la première journée de solidarité dont la recette est destinée à venir en aide aux réfugiés."
     middle-description:
@@ -23,7 +25,8 @@ items:
 
 
   - ref: 8Fi2319
-    title: Journée des éprouvés de la guerre. Grande tombola, 26 septembre 1915
+    title: Journée des éprouvés de la guerre. Grande tombola
+    date: 26 septembre 1915
     top-description: Affiche, 80 cm x 121 cm
     description: "Organisée par le Syndicat de la Presse parisienne, le bénéfice de cette tombola est réparti entre les différentes oeuvres se consacrant aux victimes militaires et civiles. A cette occasion, on procède à la vente de pochettes en papier contenant une gravure en couleur d’un dessin composé spécialement par une trentaine d’artistes."
     middle-description: Illustrée par Luc-Olivier MERSON.
@@ -32,6 +35,7 @@ items:
 
   - ref: 8Fi2392
     title: Journée serbe, 25 juin 1916. Anniversaire de la bataille du Kosovo
+    date:
     top-description: Affiche, 115 cm x 80 cm
     description: "Durant le conflit, la Serbie est l’alliée de la France, de la Grande-Bretagne et de la Russie. Cette affiche illustre la fuite de l’armée et des civils serbes vers le Monténégro et l’Albanie devant l’avancée des troupes allemandes et austro-hongroises. La journée organisée en faveur de la population serbe fait référence à une ancienne bataille du Kosovo (1389) à l’issue de laquelle la Serbie perdit son indépendance."
     middle-description: Illustrée par Charles FOUQUERAY.
@@ -40,6 +44,7 @@ items:
 
   - ref: 8Fi2657
     title: Journée serbe 25 juin 1916
+    date:
     top-description: Affiche, 120 cm x 80 cm.
     description:
     middle-description: Illustrée par Pierre MOURGUE.
@@ -53,6 +58,7 @@ subcategories:
     items:
     - ref: 8Fi2302
       title: Journée nationale des Orphelins 1914-1916 - Souscription
+      date:
       top-description: Affiche, 120 cm x 80 cm
       description:
       middle-description: Illustrée par Charles H. FOERSTER.
@@ -61,6 +67,7 @@ subcategories:
 
     - ref: 8Fi2303
       title: Journée des Orphelins 1914-1916
+      date:
       top-description: Affiche, 120 cm x 80 cm
       description:
       middle-description: Illustrée par Bernard NAUDIN.
@@ -68,7 +75,8 @@ subcategories:
 
 
     - ref: 8Fi2601
-      title: Journée de l'orphelinat des armées, 20 juin 1915
+      title: Journée de l'orphelinat des armées
+      date: 20 juin 1915
       top-description: Affiche, 160 cm x 119 cm
       description:
       middle-description: Illustrée par Alfred ROLL.
@@ -76,7 +84,8 @@ subcategories:
 
 
     - ref: 8Fi2304
-      title: Journée nationale des Orphelins, 3 décembre 1916
+      title: Journée nationale des Orphelins
+      date: 3 décembre 1916
       top-description: Affiche, 80 cm x 60 cm
       description:
       middle-description:
@@ -87,7 +96,8 @@ subcategories:
     subdescription: ""
     items:
     - ref: 8Fi0189
-      title: Elbeuf. Comité de la journée du Poilu aux habitants d'Elbeuf 1915
+      title: Elbeuf. Comité de la journée du Poilu aux habitants d'Elbeuf
+      date: "1915"
       top-description: Affiche, 76 cm x 45 cm
       description:
       middle-description:
@@ -96,6 +106,7 @@ subcategories:
 
     - ref: 8Fi2285
       title: Journée du [canon de] 75 du 7 février 1915
+      date:
       top-description: Affiche, 76 cm x 55 cm
       description: "Dite du 75 en référence à la pièce maitresse de l’artillerie française, cette journée de bienfaisance a pour objet de  recueillir des fonds destinés à l’acquisition d’objets d’hygiène et de confort pour les soldats. 150 000 affiches ont été imprimées à cette occasion par le Touring Club de France."
       middle-description:
@@ -104,6 +115,7 @@ subcategories:
 
     - ref: 8Fi2391
       title: Journée du Poilu 31 octobre - 1er novembre 1915
+      date:
       top-description: Affiche, 121 cm x 80 cm
       description:
       middle-description: Illustrée par Charles LEANDRE
@@ -111,7 +123,8 @@ subcategories:
 
 
     - ref: 8Fi2599
-      title: Journée française du secours national, 23-24 mai 1915
+      title: Journée française du secours national
+      date: 23-24 mai 1915
       top-description: Affiche, 126 cm x 85 cm
       description: "L’œuvre du Secours national est créée par le journal de Clémenceau L’Homme déchainé, à l’origine dans le but d’améliorer la tenue des soldats."
       middle-description:
@@ -119,7 +132,8 @@ subcategories:
 
 
     - ref: 8Fi0344
-      title: Assistance professionnelle aux Invalides de la guerre, sans date
+      title: Assistance professionnelle aux Invalides de la guerre
+      date: sans date
       top-description: Affiche, 84 cm x 60 cm
       description:
       middle-description:
@@ -127,7 +141,8 @@ subcategories:
 
 
     - ref: 8Fi2317
-      title: Journée nationale des Tuberculeux 1917
+      title: Journée nationale des Tuberculeux 
+      date: "1917"
       top-description: Affiche, 120 cm x 80 cm
       description: "Les conditions de vie difficiles dans les tranchées sont des facteurs propices à la propagation  de la tuberculose. On compte 40 000 décès. La plupart des soldats contaminés sont réformés sans obtenir la reconnaissance de blessés. Les fonds récoltés lors de ces journées sont destinés à la création d’hôpitaux et de stations sanitaires."
       middle-description: Illustrée par Abel FAIVRE
@@ -135,7 +150,8 @@ subcategories:
 
 
     - ref: 8Fi2316
-      title: Journée nationale des Tuberculeux 1917
+      title: Journée nationale des Tuberculeux 
+      date: "1917"
       top-description: Affiche, 82 cm x 114 cm
       description:
       middle-description: Illustrée par Lucien LEVY-DHURMER
@@ -144,6 +160,7 @@ subcategories:
 
     - ref: 8Fi0291
       title: Une semaine d'économie du 14 au 21 janvier 1918 au profit des prisonniers de guerre
+      date:
       top-description: Affiche, 126 cm x 84 cm
       description:
       middle-description:
@@ -155,7 +172,8 @@ subcategories:
     subdescription: "Au cours du conflit, La France déploie plus de 480 000 soldats originaires d’Afrique de l’Ouest, Afrique du Nord, Madagascar, Somalie et Indochine. Mais la guerre se poursuivant, l’Etat procède à la mobilisation des hommes dans les colonies dans un climat d’hostilité de la part des populations."
     items:
     - ref: 8Fi2308
-      title: Journées de l'Armée d'Afrique et des Troupes Coloniales 1917
+      title: Journées de l'Armée d'Afrique et des Troupes Coloniales 
+      date: "1917"
       top-description: Affiche, 110 cm x 80 cm
       description:
       middle-description: Illustrée par Lucien JONAS
@@ -164,6 +182,7 @@ subcategories:
 
     - ref: 8Fi2311
       title: Journées d'Afrique et des Troupes Coloniales 10 juin 1917
+      date:
       top-description: Affiche, 80 cm x 60 cm
       description: "Dite du 75 en référence à la pièce maitresse de l’artillerie française, cette journée de bienfaisance a pour objet de  recueillir des fonds destinés à l’acquisition d’objets d’hygiène et de confort pour les soldats. 150 000 affiches ont été imprimées à cette occasion par le Touring Club de France."
       middle-description:
@@ -171,7 +190,8 @@ subcategories:
 
 
     - ref: 8Fi2309
-      title: Journées de l'Armée d'Afrique et des troupes coloniales, 1917
+      title: Journées de l'Armée d'Afrique et des troupes coloniales 
+      date: "1917"
       top-description: Affiche, 120 cm x 80 cm
       description:
       middle-description: Illustrée par Charles FOUQUERAY
@@ -179,7 +199,8 @@ subcategories:
 
 
     - ref: 8Fi2312
-      title: Journée au profit des oeuvres de l'Armée d'Afrique et troupes coloniales 1917
+      title: Journée au profit des oeuvres de l'Armée d'Afrique et troupes coloniales 
+      date: "1917"
       top-description: Affiche, 120 cm x 159 cm
       description:
       middle-description: Illustrée par Henri de WAROQUIER

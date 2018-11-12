@@ -7,6 +7,7 @@ subdescription: "A partir du lendemain et durant deux semaines, près de 3 600 0
 items:
   - ref: 8Fi2320
     title: Fête nationale du 14 juillet 1914
+    date:
     top-description: Affiche, 190 cm x 93 cm
     description: "Le climat international est très tendu après l’attentat contre l’héritier de l’empire austro hongrois. La parution durant l’été d’un rapport officiel sur la  désorganisation et le manque de moyens de l’armée française augmente les tensions entre pacifistes et partisans de l’entrée en guerre. <br> Malgré les circonstances, les célébrations du 14 juillet 1914 se déroulent dans la tradition."
     middle-description:
@@ -15,6 +16,7 @@ items:
 
   - ref: 8Fi2597
     title: Ordre de mobilisation générale du dimanche 2 août 1914
+    date:
     top-description: Affiche, 93 cm x 72 cm
     description: "La mobilisation générale est annoncée le 1 er août 1914 vers 16 heures en France, vers 17 heures en Allemagne. Depuis Paris, l’ordre de mobilisation a été télégraphié aux préfectures. Chaque commune, par le relais des maires, gendarmes, gardes-champêtres, doit alors informer la population et procéder à l’affichage de l’ordre, un imprimé officiel dont le modèle avait été fixé en 1904 et sur lequel la date est ajoutée à la main."
     middle-description:
@@ -22,7 +24,8 @@ items:
 
 
   - ref: 8Fi2397
-    title: Appel du gouvernement annonçant son départ de Paris, 1914
+    title: Appel du gouvernement annonçant son départ de Paris
+    date: "1914"  
     top-description: Affiche, 41 cm x 60 cm
     description: "Après avoir envahi la Belgique, les troupes allemandes affrontent les armées françaises le long des frontières du nord et de l’est et parviennent à Senlis, à quelques kilomètres de Paris. Le 2 septembre, le président de la République, Raymond Poincaré, et le gouvernement quittent Paris pour Bordeaux où ils demeureront jusqu’au 20 décembre."
     middle-description:
@@ -30,7 +33,8 @@ items:
 
 
   - ref: 8Fi2607
-    title: Réquisition des automobiles, 1914
+    title: Réquisition des automobiles
+    date: "1914"
     top-description: Affiche, 62 cm x 52 cm
     description: "Pour satisfaire aux besoins militaires, un plan de réquisition des véhicules particuliers est mis en œuvre dès l’annonce de la mobilisation générale. La réquisition porte sur les camions, fourgons et cars destinés au transport des hommes et du matériel et les voitures de tourisme réservées aux états-majors. Au 31 décembre 1914, 13 000 véhicules ont déjà été réquisitionnés."
     middle-description:
@@ -38,7 +42,8 @@ items:
 
 
   - ref: 8Fi2291
-    title: Réquisition des chevaux et voitures attelées, septembre 1914
+    title: Réquisition des chevaux et voitures attelées
+    date: Septembre 1914
     top-description: Affiche, 60 cm x 43 cm
     description: "Avant-guerre, les chevaux, mules et mulets sont déclarés chaque année par leurs propriétaires. Les autorités militaires procèdent à leur recensement et à leur préparation pour les besoins de l’armée. En 1914, les chevaux sont employés par l’armée pour leur force de traction et pour quelques temps encore dans les régiments de cavalerie."
     middle-description:
@@ -46,7 +51,8 @@ items:
 
 
   - ref: 8Fi2292
-    title: Ravitaillement des Armées, 19 août 1914
+    title: Ravitaillement des Armées
+    date: 19 août 1914
     top-description: Affiche 63 cm x 47 cm
     description: "L’agriculture française subit les effets de la guerre. Elle a perdu la moitié de ses effectifs du fait de la mobilisation ainsi que les terres cultivables situées dans les régions occupées ou situées en zone de combat. Une partie du cheptel est employée par les armées pour assurer le transport des vivres et du matériel. Pourtant, le ravitaillement des armées reste la priorité nationale. L’état fait face en important massivement et en faisant appel au patriotisme de la population."
     middle-description:

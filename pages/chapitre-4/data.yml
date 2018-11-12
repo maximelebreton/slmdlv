@@ -6,7 +6,8 @@ subdescription: "« 62 % des dépenses de l’Etat sont consacrés aux charges d
 
 items:
   - ref: 8Fi2598
-    title: Emprunt de la Défense nationale, 1915
+    title: Emprunt de la Défense nationale
+    date: "1915"
     top-description: Affiche, 79 cm x 115 cm
     description:
     middle-description: Illustrée par Bernard NAUDIN, publiée sous les auspices des Sociétés de préparation militaire de France.
@@ -14,7 +15,8 @@ items:
 
 
   - ref: 8Fi2600
-    title: Emprunt de la Défense nationale, 1915
+    title: Emprunt de la Défense nationale
+    date: "1915"
     top-description: Affiche, 62 cm x 44 cm
     description:
     middle-description: Illustrée par Francisque POULBOT publiée avec le soutien de la Fédération de la Mutualité française.
@@ -22,7 +24,8 @@ items:
 
 
   - ref: 8Fi2602
-    title: Emprunt national - Appel à la population, 1915
+    title: Emprunt national - Appel à la population
+    date: "1915"
     top-description: Affiche, 72 cm x 110 cm
     description:
     middle-description:
@@ -30,7 +33,8 @@ items:
 
 
   - ref: 8Fi2656
-    title: Emprunt de la Défense nationale « Eux aussi font leur devoir », 1915
+    title: Emprunt de la Défense nationale « Eux aussi font leur devoir »
+    date: "1915"
     top-description: Affiche, 120 cm x 80 cm
     description:
     middle-description: Illustrée par Jules ADLER publiée sous les auspices de l'Union des Sociétés de Tir de France et de l'Union des Sociétés de Gymnastique de France.
@@ -38,7 +42,8 @@ items:
 
 
   - ref: 8Fi2424
-    title: Emprunt de la Libération. Appel des Maires de France, 1918
+    title: Emprunt de la Libération. Appel des Maires de France
+    date: "1918"
     top-description: Affiche, 44 cm x 28 cm
     description:
     middle-description:
@@ -47,7 +52,8 @@ items:
 
 
   - ref: 8Fi0454
-    title: Appel à la population pour l'emprunt émis par le gouvernement, 1920
+    title: Appel à la population pour l'emprunt émis par le gouvernement
+    date: "1920"
     top-description: Affiche, 94 cm x 65 cm
     description:
     middle-description:
